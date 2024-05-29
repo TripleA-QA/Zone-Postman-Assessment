@@ -29,6 +29,7 @@ Before you begin, ensure you have the following installed:
 5. Alternatively, you can import the collection directly by uploading the JSON file from this repository.
 
 ###Running Tests
+
 You can run the tests using Postman
 
 ###Running Tests in Postman
